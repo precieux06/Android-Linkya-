@@ -1,0 +1,13 @@
+body {
+  font-family: Arial;
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+input, button {
+  padding: 10px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
